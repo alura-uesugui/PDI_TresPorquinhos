@@ -10,4 +10,4 @@ Baseado em jogos de lógica [zebra puzzle](https://en.wikipedia.org/wiki/Zebra_P
 
 1. Ter requisitos instalados (listados acima)
 2. [Baixar o projeto](https://github.com/alura-uesugui/PDI_TresPorquinhos/archive/refs/heads/main.zip) e descompactá-lo
-3. Rodar o arquivo `TresPorquinhos.exe`, na pasta bin > Debug > net6.0 > TresPorquinhos.exe
+3. Rodar o arquivo `TresPorquinhos.exe`, na pasta bin > Debug > net6.0
