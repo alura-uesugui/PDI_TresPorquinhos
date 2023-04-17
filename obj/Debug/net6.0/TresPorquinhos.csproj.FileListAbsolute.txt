@@ -1,0 +1,15 @@
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\bin\Debug\net6.0\TresPorquinhos.exe
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\bin\Debug\net6.0\TresPorquinhos.deps.json
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\bin\Debug\net6.0\TresPorquinhos.runtimeconfig.json
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\bin\Debug\net6.0\TresPorquinhos.dll
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\bin\Debug\net6.0\TresPorquinhos.pdb
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.csproj.AssemblyReference.cache
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.AssemblyInfoInputs.cache
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.AssemblyInfo.cs
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.csproj.CoreCompileInputs.cache
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.dll
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\refint\TresPorquinhos.dll
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.pdb
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\TresPorquinhos.genruntimeconfig.cache
+C:\Users\gui_l\Desktop\PDI\2023_1o TRI\TresPorquinhos\obj\Debug\net6.0\ref\TresPorquinhos.dll
